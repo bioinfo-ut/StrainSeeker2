@@ -1,2 +1,2 @@
 # StrainSeeker2
-StrainSeeker2 is under development
+StrainSeeker2 is under development.
